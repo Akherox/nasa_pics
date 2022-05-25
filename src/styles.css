@@ -5,7 +5,7 @@ body {
 
 .mt-4 {
     padding: 70px 0px;
-    background-image: url("/imagens/NASA.jpg");
+    background-image: url("/src/imagens/NASA.jpg");
     /* background-color: rgb(95, 99, 160); */
 }    
 
