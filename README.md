@@ -14,6 +14,8 @@ Site de busca de fotos feitas pela NASA até hoje (site feito com uma API da NAS
 - [Autor](#autor)
 
 ## Visão geral
+Pratica dos conhecimentos adquiridos nas minhas aulas de Full-Stack Developer com a Toti (Turma 15).
+O foco desse projeto praticar o uso de APIs e enteder o conceito (foi uma tarefa do curso).
 
 ### Rascunho
 
