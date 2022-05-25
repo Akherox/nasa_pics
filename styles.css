@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.mt-4 {
+    padding: 70px 0px;
+    background-image: url("/imagens/NASA.jpg");
+    /* background-color: rgb(95, 99, 160); */
+}    
+
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.card {
+    width: 18rem;
+    margin: 10px;
+}
+
+.card-img-top {
+    height: 12rem;
+    object-fit: cover;
+}
+
+
+.img-sample {
+    background-color: rgb(27, 24, 182);
+}
