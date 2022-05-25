@@ -24,7 +24,7 @@ O foco desse projeto praticar o uso de APIs e enteder o conceito (foi uma tarefa
 ### Links
 
 - Codigo na web URL: [GitHub](https://github.com/Akherox/nasa_pics)
-- Site ao vivo URL: [Vercel Pages](https://akherox.github.io/nasa_pics/)
+- Site ao vivo URL: [GitHub Pages](https://akherox.github.io/nasa_pics/)
 
 ## Meu processo
 
