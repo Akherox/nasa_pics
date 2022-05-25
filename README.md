@@ -34,7 +34,7 @@ O foco desse projeto praticar o uso de APIs e enteder o conceito (foi uma tarefa
 
 ### O que eu aprendi (até agora)
 
-Fazer coneção com APIs usando uma API-KEY.
+Fazer conexão com APIs usando uma API-KEY.
 
 ```js
 class ApiConnection {
