@@ -1,5 +1,7 @@
 # NASA Pics - Today
 Site de busca de fotos feitas pela NASA até hoje (site feito com uma API da NASA), você terá acesso a fotos atualizadas das misões da NASA e algumas informações dessas fotos.
+Pratica dos conhecimentos adquiridos nas minhas aulas de Full-Stack Developer com a Toti (Turma 15).
+O foco desse projeto praticar o uso de APIs e enteder o conceito (foi uma tarefa do curso).
 
 ## Conteudo
 
@@ -14,8 +16,7 @@ Site de busca de fotos feitas pela NASA até hoje (site feito com uma API da NAS
 - [Autor](#autor)
 
 ## Visão geral
-Pratica dos conhecimentos adquiridos nas minhas aulas de Full-Stack Developer com a Toti (Turma 15).
-O foco desse projeto praticar o uso de APIs e enteder o conceito (foi uma tarefa do curso).
+
 
 ### Rascunho
 
@@ -24,7 +25,7 @@ O foco desse projeto praticar o uso de APIs e enteder o conceito (foi uma tarefa
 ### Links
 
 - Codigo na web URL: [GitHub](https://github.com/Akherox/nasa_pics)
-- Site ao vivo URL: [Vercel Pages](https://akherox.github.io/nasa_pics/)
+- Site ao vivo URL: [GitHub Pages](https://akherox.github.io/nasa_pics/)
 
 ## Meu processo
 
@@ -34,7 +35,7 @@ O foco desse projeto praticar o uso de APIs e enteder o conceito (foi uma tarefa
 
 ### O que eu aprendi (até agora)
 
-Fazer coneção com APIs usando uma API-KEY.
+Fazer conexão com APIs usando uma API-KEY.
 
 ```js
 class ApiConnection {
